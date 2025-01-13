@@ -20,7 +20,7 @@ The **English to Hindi-Gujarati Translator** is a simple and interactive GUI app
 ### Installing Dependencies
 > **Note:** The `requirements.txt` file for the larger multimodal system includes dependencies for all models. If you're using this model independently, ensure only the required dependencies are installed.
 
-## How to Run the Application
+### How to Run the Application
 1. Save the code as `translator.py`.
 2. Open a terminal and navigate to the directory where the file is saved.
 3. Run the following command:
